@@ -1,0 +1,93 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all padding="0" margin="0" font-size="0" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#ffe4e4" width="600px">
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <img src="/imgs/blush_light_logo.png" alt="" width="100%">
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0px 10px" background-color="#ffe4e4">
+            <mj-column padding="20px 0px" border="1px solid #adb697">
+                <mj-text text-transform="uppercase"
+               align="center"font-size="15px">
+                SHOP    
+                </mj-text>
+            </mj-column>
+            <mj-column padding="20px 0px" border="1px solid #adb697">
+                 <mj-text text-transform="uppercase" 
+                align="center"font-size="15px">
+                 Blog 
+                </mj-text>
+            </mj-column>
+            <mj-column padding="20px 0px" border="1px solid #adb697">
+                 <mj-text text-transform="uppercase"
+                align="center"font-size="15px">
+                 Custom
+                </mj-text>
+            </mj-column>
+            <mj-column padding="20px 0px" border="1px solid #adb697">
+                 <mj-text text-transform="uppercase"
+                align="center"font-size="15px">
+                Contact  
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <img src="/imgs/zipper_bags.png" alt="" width="100%">
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#adb697">
+            <mj-column padding="25px 40px">
+                <mj-text color="#f6f3ee"text-transform="uppercase" font-size="34px" align="center">
+                   <strong>Check us out</strong> 
+                </mj-text>
+                <mj-text padding="20px" line-height="1.5" font-size="17px" align="left">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare aenean euismod elementum nisi quis eleifend quam. Integer vitae justo eget magna fermentum. Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi non arcu risus quis varius quam quisque. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Egestas quis ipsum suspendisse ultrices. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Odio aenean sed adipiscing diam.
+                </mj-text>
+                 <mj-text padding="20px" line-height="1.5" font-size="17px" align="left">
+                    Vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra. Morbi non arcu risus quis varius quam quisque. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Egestas quis ipsum suspendisse ultrices. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Odio aenean sed adipiscing diam.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+                <mj-section background-color="white">
+            <mj-column>
+                <mj-social align="center" padding="20px">
+                    <mj-social-element padding="2px"
+                        href="http://trk.klclick.com/ls/click?upn=hIKxlXML9I-2BO0IoJBEI90MoYWB3ytBWHK0fSVhAs3A40XtDFWVnQmIyjQ4UtLUWZP51PI1IiNdv6XxHv-2BwDKwGkibGf9agB-2B-2FG8JdLEYOVSFr5D4d3lrzYsPwRO2hR5ekHieSEgnbZVRpmOt86B4Ln8y0zJwuJJzWNaE6HvgtohVDa2MnnD4elyCkAPtJecNm5mdzl8uqouVBvuBPnFVe2qQ8RZe-2BhngxBjsUg6shm5aglapaSuV1xQoDk6BHJdPpm36sXZmkUJokMzpwSWGlVqZOl-2FzOaihcgStXh-2FK-2F1-2FOM84VLw53jk-2BdMkwgCBtYR83sIWZaRmVPz2jcxoATtQ-3D-3DLCoB_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RSvfEKgrfOfUiUBLnsAMY3PY-2BRVRmXdSxJ3anfW39mvc25E9KD7-2BLF8mbKVKHabdrCF5zEI7f9qCGLBdxlxOEYyMhQwVpFbbDes-2FEo4fina83yXMy68saAY55vQIRx1d-2FyM7fBwE4-2BTuTFR6AqcJjGlvXpsn0rvx0BbUc04F82Ijt8zYo83lW3hDrUykDnt4mPnKZ38L54t-2FByzP2Zna-2FsDQww0VsoEp57QDih3EMqj7dKwdN7KYwCunXMK5kVSrZNHfQFbe-2BGqEIWUVKtWFS3XMdYKhq-2BO6b1T1uNLKZWW-2B5VvmgIQYH9I-2Bm1TW19yDxxFG0cdQz-2FqWYlFeuQ3KHIw-3D-3D"
+                        src="https://d3k81ch9hvuctc.cloudfront.net/company/HbSTYX/images/6d0d5b7b-abe7-4dc4-8ca9-95ae6ceb5972.png?v=0">
+
+                    </mj-social-element>
+                    <mj-social-element padding="2px"
+                        href="http://trk.klclick.com/ls/click?upn=hIKxlXML9I-2BO0IoJBEI90E55PSPNp-2B9yc-2FNV-2FiOy5eTScaqpnPkKAYcJGt6n-2Fb8ToyYq69BWP97ZSabZlZ2aUALzZ3uMWmn946zMo7wClGa-2BmyWSj5iXkD1HcssO44mLeNrkAOOedDFHLYygyALoVlrU-2BjlFs1BHJkHur4WQ5KXJfc2NFbTBOLiDvoB-2FW6kt0KSjpgE79PdQrKnfjN-2FjPnu-2BYHFJXaNGhyiI7Wb-2FIB0igLGm4bpMhdG6-2Fwzd3NLjdSp4gHjt5Vtjqu4K4EJPyEQZxz9SNjxx3SepWVEoIy2DeI3QSh9OBpn6D8Su3AEYByFv8GbSQ8QXHryvlxkkSA-3D-3Dyq8l_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RSvfEKgrfOfUiUBLnsAMY3PY-2BRVRmXdSxJ3anfW39mvc25E9KD7-2BLF8mbKVKHabdrCF5zEI7f9qCGLBdxlxOEYyMhQwVpFbbDes-2FEo4fina83yXMy68saAY55vQIRx1d-2FyM7fBwE4-2BTuTFR6AqcJjGsyB1pDBZM0wp4MqME4h-2BDA6l8mrWRTmEghkA1hvIKkc8n5AqoxccJQGAUPocrBow-2By2Hy2CAaMwXHzMwmgGrTK5gc5Owb1I945G4ufKkYym66urUFuyhTvBvuK2nnGQ8KrRP7ifgcF0ZtXyb9VnByaCh5O6WfR21qbpRqifCP2ESE3TIfvQb-2FSUgjweXQDNVw-3D-3D"
+                        src="https://d3k81ch9hvuctc.cloudfront.net/company/HbSTYX/images/fcdc683b-efde-4151-8c22-6bb2262fd824.png?v=0">
+
+                    </mj-social-element>
+                    <mj-social-element padding="2px"
+                        href="http://trk.klclick.com/ls/click?upn=hIKxlXML9I-2BO0IoJBEI90JPKzZN1TcWd-2FoJGvXFdNqbTZuqNBuQrdojpw4y7iUMUWrX2vtD8fbusazmfZppl2iPVHMQS-2FGYCItt2rZvvACWjML7M60V-2FnR6NKs7D2-2BrnzlQBFs-2BHDMwn7viLaifXQc-2BoHx3s2ZvYrAkpncZOFTT-2F6llQiWWvhXrFXGAf9uLVayg-2BLLLzlUIlbtM-2F-2FdtigCcxzhF4iG1HynADDhB9dWgU9lzVpNxiGAf5-2BFIQaMejhkmnhfjkRzlmAVzj91tGW6UiZNBvphfKpuyGnxb9e7sIstdQmnnxxisOKYKwHN2JMw17F5kmItzaS-2F7RW5D-2FCg-3D-3DiFid_j-2F0O98F5U4fETp-2F1Yg8av1mqjk53BdiW-2B1OXixIjTdbAACIf1y-2B-2FR3zbO0NxcM0RSvfEKgrfOfUiUBLnsAMY3PY-2BRVRmXdSxJ3anfW39mvc25E9KD7-2BLF8mbKVKHabdrCF5zEI7f9qCGLBdxlxOEYyMhQwVpFbbDes-2FEo4fina83yXMy68saAY55vQIRx1d-2FyM7fBwE4-2BTuTFR6AqcJjGts2SIMhGA1We9ESibAtuOeZDH546ppTx1bsNkyj30itcku2Jnab-2F0i0mbnsomyrlCWBs7Mhc2sD2W2LejxDfdP6S4c5f-2FFAklIowCO6AVx412hNauC6MOxqt8ahwzQb1R8y9vMZzdK-2BDsGjuptlcLVKil2YJ4gMMzTVJ38M0kh1n7NNZ6d064PdcN7bc6c-2BMg-3D-3D"
+                        src="https://d3k81ch9hvuctc.cloudfront.net/company/HbSTYX/images/06847915-6216-47cc-a345-b6c319ca3acb.png?v=0">
+
+                    </mj-social-element>
+                </mj-social>
+                <mj-text padding="10px 0px" color="#666666" line-height="1.3" align="center" font-size="12px">
+                    <a href="https://parcel.io/playground?theme=rge#"> View in browser</a> | <a
+                        href="https://parcel.io/playground?theme=rge#">Unsubscribe.</a>
+                </mj-text>
+                <mj-text padding="10px 0px" color="#666666" line-height="1.3" align="center" font-size="12px">
+                    Blush Customs
+                </mj-text>
+                <mj-text padding="10px 0px" color="#666666" line-height="1.3" align="center" font-size="12px">
+                    555 street st, City, State 55255
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
