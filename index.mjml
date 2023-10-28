@@ -8,7 +8,7 @@
         <mj-section>
             <mj-column>
                 <mj-text>
-                    <img src="/imgs/blush_light_logo.png" alt="" width="100%">
+                    <img src="https://raw.githubusercontent.com/ADmcdon/blush_newsletter_3/master/imgs/blush_light_logo.png" alt="" width="100%">
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -41,7 +41,7 @@
         <mj-section>
             <mj-column>
                 <mj-text>
-                    <img src="/imgs/zipper_bags.png" alt="" width="100%">
+                    <img src="https://raw.githubusercontent.com/ADmcdon/blush_newsletter_3/master/imgs/zipper_bags.png" alt="" width="100%">
                 </mj-text>
             </mj-column>
         </mj-section>
